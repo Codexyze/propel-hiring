@@ -1,0 +1,578 @@
+[
+  {
+    "id": "k1",
+    "name": "Mom's Desi Rasoi",
+    "cuisine": "North Indian",
+    "pricePerTiffin": 120.0,
+    "isVeg": true,
+    "rating": 4.8,
+    "imageUrl": "https://images.unsplash.com/photo-1546833999-b9f581a1996d",
+    "description": "Homestyle pure veg North Indian thalis made with low oil and ghee.",
+    "address": "Sector 14, Gurgaon",
+    "weeklyMenu": [
+      {
+        "day": "Monday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Paneer Butter Masala", "Dal Tadka", "4 Phulkas", "Jeera Rice", "Gulab Jamun"]
+      },
+      {
+        "day": "Tuesday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Aloo Gobi Matar", "Rajma Masala", "4 Phulkas", "Steamed Rice", "Curd"]
+      },
+      {
+        "day": "Wednesday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Chole Masala", "Puri (5 Pcs)", "Jeera Rice", "Boondi Raita", "Halwa"]
+      },
+      {
+        "day": "Thursday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Mix Veg Makhani", "Yellow Moong Dal", "4 Phulkas", "Plain Rice", "Salad"]
+      },
+      {
+        "day": "Friday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Shahi Paneer", "Dal Makhani", "2 Butter Naan", "Veg Pulao", "Rasgulla"]
+      },
+      {
+        "day": "Saturday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Kadhi Pakoda", "Aloo Jeera", "4 Phulkas", "Steamed Rice", "Papad"]
+      },
+      {
+        "day": "Sunday",
+        "mealType": "Special Feast",
+        "items": ["Special Dal Baati Churma", "Gatte Ki Sabzi", "Garlic Chutney", "Chaas"]
+      }
+    ]
+  },
+  {
+    "id": "k2",
+    "name": "Annapurna Gujarati Thali",
+    "cuisine": "Gujarati Kathiyawadi",
+    "pricePerTiffin": 110.0,
+    "isVeg": true,
+    "rating": 4.6,
+    "imageUrl": "https://images.unsplash.com/photo-1610192244261-3f33de3f55e4",
+    "description": "Authentic Gujarati and Kathiyawadi home meals cooked fresh daily.",
+    "address": "Navrangpura, Ahmedabad",
+    "weeklyMenu": [
+      {
+        "day": "Monday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Ringan Bhartu", "Gujarati Kadi", "Rotla (2 Pcs)", "Khichdi", "Jaggery & Butter"]
+      },
+      {
+        "day": "Tuesday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Sev Tameta Sabzi", "Tuver Dal", "5 Roti", "Steamed Rice", "Chaas"]
+      },
+      {
+        "day": "Wednesday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Undhiyu Special", "Dal Fry", "Puri", "Plain Rice", "Shrikhand"]
+      },
+      {
+        "day": "Thursday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Bhindhi Sambhariya", "Kadi Pakoda", "5 Roti", "Jeera Rice", "Papad"]
+      },
+      {
+        "day": "Friday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Aloo Rasavala", "Mag Dal", "5 Roti", "Steamed Rice", "Sukhdi Sweet"]
+      },
+      {
+        "day": "Saturday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Bataka Vada Sabzi", "Gujarati Dal", "5 Roti", "Veg Pulao", "Salad"]
+      },
+      {
+        "day": "Sunday",
+        "mealType": "Special Sunday",
+        "items": ["Dal Dhokli", "Farsan Mix", "Masala Chaas", "Basundi"]
+      }
+    ]
+  },
+  {
+    "id": "k3",
+    "name": "Swaad Punjabi Tiffin",
+    "cuisine": "Punjabi Dhaba Style",
+    "pricePerTiffin": 140.0,
+    "isVeg": false,
+    "rating": 4.7,
+    "imageUrl": "",
+    "description": "Rich Punjabi veg and non-veg curries with tandoori tiffin options.",
+    "address": "Model Town, Ludhiana",
+    "weeklyMenu": [
+      {
+        "day": "Monday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Butter Chicken / Kadhai Paneer", "Dal Makhani", "4 Tandoori Roti", "Jeera Rice"]
+      },
+      {
+        "day": "Tuesday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Chicken Curry / Chole Bhature", "Yellow Dal", "4 Phulkas", "Steamed Rice"]
+      },
+      {
+        "day": "Wednesday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Egg Curry / Kadhai Mushroom", "Dal Tadka", "4 Roti", "Peas Pulao"]
+      },
+      {
+        "day": "Thursday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Veg Kolhapuri / Matar Paneer", "Rajma", "4 Phulkas", "Rice"]
+      },
+      {
+        "day": "Friday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Fish Curry / Shahi Paneer", "Dal Fry", "4 Roti", "Jeera Rice"]
+      },
+      {
+        "day": "Saturday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Chicken Masala / Malai Kofta", "Dal Makhani", "4 Roti", "Steamed Rice"]
+      },
+      {
+        "day": "Sunday",
+        "mealType": "Sunday Feast",
+        "items": ["Mutton Curry / Paneer Tikka Masala", "Special Biryani", "Raita", "Kheer"]
+      }
+    ]
+  },
+  {
+    "id": "k4",
+    "name": "Dakshin Flavour Kitchen",
+    "cuisine": "South Indian Meals",
+    "pricePerTiffin": 95.0,
+    "isVeg": true,
+    "rating": 4.9,
+    "imageUrl": "",
+    "description": "Traditional South Indian banana leaf meal style tiffins.",
+    "address": "Indiranagar, Bengaluru",
+    "weeklyMenu": [
+      {
+        "day": "Monday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Drumstick Sambar", "Pepper Rasam", "Poriyal", "Boiled Rice", "Appalam", "Curd"]
+      },
+      {
+        "day": "Tuesday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Tomato Pappu", "Garlic Rasam", "Kootu", "Steamed Rice", "Curd"]
+      },
+      {
+        "day": "Wednesday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Vatha Kuzhambu", "Jeera Rasam", "Keerai Poriyal", "Rice", "Payasam"]
+      },
+      {
+        "day": "Thursday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Mysore Sambar", "Lemon Rasam", "Potato Fry", "Rice", "Buttermilk"]
+      },
+      {
+        "day": "Friday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Mixed Veg Sambar", "Pineapple Rasam", "Avial", "Steamed Rice", "Papad"]
+      },
+      {
+        "day": "Saturday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Majjiga Pulusu", "Tomato Rasam", "Chana Kootu", "Rice", "Curd"]
+      },
+      {
+        "day": "Sunday",
+        "mealType": "Sunday Feast",
+        "items": ["Bisi Bele Bath", "Curd Rice", "Potato Chips", "Gulab Jamun"]
+      }
+    ]
+  },
+  {
+    "id": "k5",
+    "name": "Bong Sparsh Home Kitchen",
+    "cuisine": "Bengali Cuisine",
+    "pricePerTiffin": 150.0,
+    "isVeg": false,
+    "rating": 4.7,
+    "imageUrl": "",
+    "description": "Authentic Bengali fish, chicken, and pure veg shukto meals.",
+    "address": "Salt Lake, Kolkata",
+    "weeklyMenu": [
+      {
+        "day": "Monday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Rui Kalia / Chanar Dalna", "Cholar Dal", "5 Luchi / Rice", "Begun Bhaja", "Mishti Doi"]
+      },
+      {
+        "day": "Tuesday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Katla Macher Jhol / Dhokar Dalna", "Tok Dal", "Steamed Rice", "Aloo Bhate"]
+      },
+      {
+        "day": "Wednesday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Chicken Kosha / Paneer Butter Masala", "Basmati Rice", "4 Roti", "Salad"]
+      },
+      {
+        "day": "Thursday",
+        "mealType": "Veg Thursday",
+        "items": ["Shukto", "Moong Dal", "Aloo Posto", "Steamed Rice", "Payesh"]
+      },
+      {
+        "day": "Friday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Pabda Jhol / Kashmiri Aloo Dum", "Masoor Dal", "Steamed Rice", "Tomato Chutney"]
+      },
+      {
+        "day": "Saturday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Egg Curry / Echorer Kalia", "Dal", "4 Roti", "Rice", "Papad"]
+      },
+      {
+        "day": "Sunday",
+        "mealType": "Sunday Feast",
+        "items": ["Kolkata Mutton Biryani / Special Veg Pulao", "Raita", "Rosogolla"]
+      }
+    ]
+  },
+  {
+    "id": "k6",
+    "name": "Aaji Chi Rasoi",
+    "cuisine": "Maharashtrian",
+    "pricePerTiffin": 105.0,
+    "isVeg": true,
+    "rating": 4.5,
+    "imageUrl": "",
+    "description": "Traditional Kolhapuri & Malvani veg tiffin cooked with authentic spices.",
+    "address": "Kothrud, Pune",
+    "weeklyMenu": [
+      {
+        "day": "Monday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Pithla", "Bhakri (2 Pcs)", "Thecha", "Varan Bhat", "Taak"]
+      },
+      {
+        "day": "Tuesday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Shev Bhaji", "Amti", "4 Chapati", "Steamed Rice", "Salad"]
+      },
+      {
+        "day": "Wednesday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Bharli Vangi", "Katachi Amti", "4 Chapati", "Indrayani Rice"]
+      },
+      {
+        "day": "Thursday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Batata Bhaji", "Moong Dal Varan", "4 Chapati", "Rice", "Solkadhi"]
+      },
+      {
+        "day": "Friday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Usal Pav / Chapati", "Kadhi", "Steamed Rice", "Puran Poli Sweet"]
+      },
+      {
+        "day": "Saturday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Matki Usal", "Amti", "4 Chapati", "Rice", "Taak"]
+      },
+      {
+        "day": "Sunday",
+        "mealType": "Sunday Special",
+        "items": ["Misal Pav Feast", "Solkadhi", "Shrikhand"]
+      }
+    ]
+  },
+  {
+    "id": "k7",
+    "name": "Padmavati Jain Bhojanalay",
+    "cuisine": "Pure Jain (No Onion Garlic)",
+    "pricePerTiffin": 115.0,
+    "isVeg": true,
+    "rating": 4.9,
+    "imageUrl": "",
+    "description": "Strictly 100% Jain food prepared with utmost purity and hygiene.",
+    "address": "Charni Road, Mumbai",
+    "weeklyMenu": [
+      {
+        "day": "Monday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Paneer Bhurji (Jain)", "Dal Tadka", "4 Roti", "Jeera Rice", "Sukhdi"]
+      },
+      {
+        "day": "Tuesday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Gatte Ki Sabzi", "Tuver Dal", "4 Roti", "Plain Rice", "Chaas"]
+      },
+      {
+        "day": "Wednesday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Corn Capsicum Sabzi", "Yellow Dal", "4 Roti", "Rice", "Halwa"]
+      },
+      {
+        "day": "Thursday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Kaju Curry (Jain)", "Dal Fry", "4 Roti", "Veg Pulao"]
+      },
+      {
+        "day": "Friday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Sev Tameta (Jain)", "Kadi", "4 Roti", "Steamed Rice"]
+      },
+      {
+        "day": "Saturday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Mix Veg Sabzi", "Moong Dal", "4 Roti", "Rice"]
+      },
+      {
+        "day": "Sunday",
+        "mealType": "Sunday Special",
+        "items": ["Jain Special Thali", "Kheer", "Puri", "Papad"]
+      }
+    ]
+  },
+  {
+    "id": "k8",
+    "name": "Rajputana Royal Tiffin",
+    "cuisine": "Rajasthani",
+    "pricePerTiffin": 130.0,
+    "isVeg": true,
+    "rating": 4.6,
+    "imageUrl": "",
+    "description": "Rich Rajasthani flavours with Gatte, Ker Sangri, and Bajra Roti.",
+    "address": "C-Scheme, Jaipur",
+    "weeklyMenu": [
+      {
+        "day": "Monday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Govind Gatta", "Panchmel Dal", "4 Missi Roti", "Steamed Rice"]
+      },
+      {
+        "day": "Tuesday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Ker Sangri", "Kadhi Pakoda", "4 Phulkas", "Jeera Rice"]
+      },
+      {
+        "day": "Wednesday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Aloo Pyaj Paneer", "Dal Fry", "4 Roti", "Rice"]
+      },
+      {
+        "day": "Thursday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Papad Mangodi", "Tuver Dal", "4 Roti", "Steamed Rice"]
+      },
+      {
+        "day": "Friday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Sev Tamatar", "Chana Dal", "4 Roti", "Rice"]
+      },
+      {
+        "day": "Saturday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Kaju Draksh Sabzi", "Kadhi", "4 Roti", "Pulao"]
+      },
+      {
+        "day": "Sunday",
+        "mealType": "Sunday Feast",
+        "items": ["Dal Baati Churma", "Garlic Chutney", "Sweet Lassi"]
+      }
+    ]
+  },
+  {
+    "id": "k9",
+    "name": "Hyderabadi Zaika Tiffin",
+    "cuisine": "Hyderabadi & Mughlai",
+    "pricePerTiffin": 160.0,
+    "isVeg": false,
+    "rating": 4.8,
+    "imageUrl": "",
+    "description": "Specialist in Hyderabadi Dum Biryani and Mughlai style curries.",
+    "address": "Banjara Hills, Hyderabad",
+    "weeklyMenu": [
+      {
+        "day": "Monday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Chicken Curry / Kadhai Paneer", "Khati Dal", "4 Rumali Roti", "Bagara Rice"]
+      },
+      {
+        "day": "Tuesday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Mutton Dalcha / Veg Dalcha", "Jeera Rice", "4 Roti", "Salad"]
+      },
+      {
+        "day": "Wednesday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Andhra Chicken / Gutti Vankaya", "Pappu", "4 Roti", "Steamed Rice"]
+      },
+      {
+        "day": "Thursday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Egg Pulusu / Paneer Masala", "Tomato Dal", "4 Roti", "Rice"]
+      },
+      {
+        "day": "Friday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Hyderabadi Chicken Biryani / Veg Biryani", "Mirchi Ka Salan", "Raita"]
+      },
+      {
+        "day": "Saturday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Tala Hua Gosht / Paneer Tikka", "Khati Dal", "4 Roti", "Bagara Rice"]
+      },
+      {
+        "day": "Sunday",
+        "mealType": "Sunday Special",
+        "items": ["Special Dum Biryani", "Double Ka Meetha", "Raita"]
+      }
+    ]
+  },
+  {
+    "id": "k10",
+    "name": "Kashmiri Valley Kitchen",
+    "cuisine": "Kashmiri",
+    "pricePerTiffin": 170.0,
+    "isVeg": false,
+    "rating": 4.9,
+    "imageUrl": "",
+    "description": "Authentic Kashmiri Wazwan style home-cooked meals.",
+    "address": "Lal Chowk, Srinagar",
+    "weeklyMenu": [
+      {
+        "day": "Monday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Rogan Josh / Dum Aloo", "Yellow Dal", "4 Naan", "Rice"]
+      },
+      {
+        "day": "Tuesday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Yakhni Chicken / Ruwangan Chaman", "Rice", "Kahwa Tea"]
+      },
+      {
+        "day": "Wednesday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Matsch / Rajma Kashmiri", "Steamed Rice", "Roti"]
+      },
+      {
+        "day": "Thursday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Kashmiri Gaad / Haak Saag", "Rice", "Chutney"]
+      },
+      {
+        "day": "Friday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Aab Gosht / Paneer Yakhni", "Basmati Rice", "Roti"]
+      },
+      {
+        "day": "Saturday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Kebab Masala / Nadru Yakhni", "Rice", "Salad"]
+      },
+      {
+        "day": "Sunday",
+        "mealType": "Wazwan Sunday",
+        "items": ["Mini Wazwan Thali", "Phirni Sweet", "Kahwa"]
+      }
+    ]
+  },
+  {
+    "id": "k11",
+    "name": "Green Leaf Fit Meals",
+    "cuisine": "Healthy & High Protein",
+    "pricePerTiffin": 135.0,
+    "isVeg": true,
+    "rating": 4.4,
+    "imageUrl": "",
+    "description": "Calorie counted high protein veg meals with quinoa and sprouts.",
+    "address": "Cyber City, Gurgaon",
+    "weeklyMenu": [
+      {
+        "day": "Monday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Soya Chunk Tikka", "Sprouted Moong Salad", "2 Multigrain Roti", "Brown Rice"]
+      },
+      {
+        "day": "Tuesday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Grilled Paneer Salad", "Dal Makhani (Low Fat)", "2 Oats Roti", "Quinoa"]
+      },
+      {
+        "day": "Wednesday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Tofu Broccoli Stir Fry", "Yellow Dal", "2 Jowar Roti", "Brown Rice"]
+      },
+      {
+        "day": "Thursday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Chana Protein Bowl", "Green Salad", "2 Multigrain Roti", "Curd"]
+      },
+      {
+        "day": "Friday",
+        "mealType": "Lunch & Dinner",
+        "items": ["High Protein Rajma", "Cucumber Raita", "2 Bajra Roti", "Brown Rice"]
+      },
+      {
+        "day": "Saturday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Mix Veg Nutri Soya", "Dal Tadka", "2 Multigrain Roti", "Steamed Rice"]
+      },
+      {
+        "day": "Sunday",
+        "mealType": "Cheat Healthy",
+        "items": ["Paneer Tikka Roll", "Protein Shake", "Fruit Salad"]
+      }
+    ]
+  },
+  {
+    "id": "k12",
+    "name": "Chettinad Spice Box",
+    "cuisine": "Chettinad Non-Veg",
+    "pricePerTiffin": 145.0,
+    "isVeg": false,
+    "rating": 4.7,
+    "imageUrl": "",
+    "description": "Spicy Chettinad chicken and egg curries made with freshly ground spices.",
+    "address": "T. Nagar, Chennai",
+    "weeklyMenu": [
+      {
+        "day": "Monday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Chettinad Chicken Masala / Veg Korma", "Sambar", "Steamed Rice", "Appalam"]
+      },
+      {
+        "day": "Tuesday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Pepper Chicken / Mushroom Fry", "Rasam", "Rice", "Curd"]
+      },
+      {
+        "day": "Wednesday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Egg Thokku / Paneer Butter Masala", "Dal", "4 Parotta / Rice"]
+      },
+      {
+        "day": "Thursday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Fish Curry / Kara Kuzhambu", "Rasam", "Steamed Rice", "Kootu"]
+      },
+      {
+        "day": "Friday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Mutton Chukka / Urulai Fry", "Sambar", "Rice", "Payasam"]
+      },
+      {
+        "day": "Saturday",
+        "mealType": "Lunch & Dinner",
+        "items": ["Chicken Biryani / Veg Biryani", "Onion Raita", "Brinjal Gravy"]
+      },
+      {
+        "day": "Sunday",
+        "mealType": "Chettinad Feast",
+        "items": ["Special Chettinad Meal", "Elaneer Payasam"]
+      }
+    ]
+  }
+]
