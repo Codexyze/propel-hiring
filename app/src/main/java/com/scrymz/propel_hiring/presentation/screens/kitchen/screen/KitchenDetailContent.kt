@@ -237,7 +237,7 @@ fun KitchenDetailContent(
 }
 
 @Composable
-private fun DayMenuCard(
+fun DayMenuCard(
     dayMenu: DayMenu,
     modifier: Modifier = Modifier
 ) {
@@ -311,4 +311,18 @@ private fun KitchenDetailContentSuccessPreview() {
         onSubscribeClick = {},
         onRetryClick = {}
     )
+}
+
+@Preview(showBackground = true)
+@Composable
+private fun DayMenuCardPreview() {
+    Box(modifier = Modifier.padding(16.dp)) {
+        DayMenuCard(
+            dayMenu = DayMenu(
+                day = "Monday",
+                mealType = "Lunch & Dinner",
+                items = listOf("Paneer Butter Masala", "Dal Tadka", "4 Phulkas", "Jeera Rice", "Gulab Jamun")
+            )
+        )
+    }
 }
