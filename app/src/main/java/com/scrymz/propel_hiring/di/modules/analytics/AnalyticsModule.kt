@@ -1,7 +1,7 @@
-package com.scrymz.propel_hiring.core.di
+package com.scrymz.propel_hiring.di.modules.analytics
 
-import com.scrymz.propel_hiring.analytics.Analytics
-import com.scrymz.propel_hiring.analytics.LogcatAnalytics
+import com.scrymz.propel_hiring.core.analytics.Analytics
+import com.scrymz.propel_hiring.core.analytics.LogcatAnalytics
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

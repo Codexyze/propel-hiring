@@ -1,4 +1,4 @@
-package com.scrymz.propel_hiring.core.di
+package com.scrymz.propel_hiring.di.modules.dispatcher
 
 import dagger.Module
 import dagger.Provides

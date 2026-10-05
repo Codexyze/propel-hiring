@@ -1,4 +1,4 @@
-package com.scrymz.propel_hiring.di.modules
+package com.scrymz.propel_hiring.di.modules.appmodule
 
 import android.content.Context
 import dagger.Module

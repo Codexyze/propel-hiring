@@ -1,4 +1,4 @@
-package com.scrymz.propel_hiring.core.di
+package com.scrymz.propel_hiring.di.modules.datastore
 
 import android.content.Context
 import androidx.datastore.core.DataStore

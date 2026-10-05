@@ -1,6 +1,6 @@
 package com.scrymz.propel_hiring.domain.usecase.subscription
 
-import com.scrymz.propel_hiring.analytics.Analytics
+import com.scrymz.propel_hiring.core.analytics.Analytics
 import com.scrymz.propel_hiring.domain.model.subscription.SubscriptionState
 import com.scrymz.propel_hiring.domain.repository.subscription.SubscriptionRepository
 import com.scrymz.propel_hiring.domain.state.ResultState

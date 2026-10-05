@@ -2,7 +2,7 @@ package com.scrymz.propel_hiring.presentation.viewmodels.kitchen
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.scrymz.propel_hiring.analytics.Analytics
+import com.scrymz.propel_hiring.core.analytics.Analytics
 import com.scrymz.propel_hiring.domain.state.ResultState
 import com.scrymz.propel_hiring.domain.usecase.kitchen.GetKitchenDetailUseCase
 import com.scrymz.propel_hiring.domain.usecase.subscription.GetSubscriptionStateUseCase

@@ -2,7 +2,7 @@ package com.scrymz.propel_hiring.data.repo.kitchen
 
 import android.util.Log
 import com.scrymz.propel_hiring.data.local.kitchen.KitchenLocalDataSource
-import com.scrymz.propel_hiring.data.remote.kitchen.toDomain
+import com.scrymz.propel_hiring.data.mapper.kitchen.toDomain
 import com.scrymz.propel_hiring.domain.model.kitchen.Kitchen
 import com.scrymz.propel_hiring.domain.repository.kitchen.KitchenRepository
 import com.scrymz.propel_hiring.domain.state.ResultState

@@ -2,7 +2,7 @@ package com.scrymz.propel_hiring.presentation.viewmodels.paywall
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.scrymz.propel_hiring.analytics.Analytics
+import com.scrymz.propel_hiring.core.analytics.Analytics
 import com.scrymz.propel_hiring.domain.state.ResultState
 import com.scrymz.propel_hiring.domain.usecase.subscription.ProcessSubscriptionUseCase
 import com.scrymz.propel_hiring.presentation.uiStates.paywall.PaywallUIState

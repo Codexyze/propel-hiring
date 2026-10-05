@@ -1,4 +1,4 @@
-package com.scrymz.propel_hiring.analytics
+package com.scrymz.propel_hiring.core.analytics
 
 import android.util.Log
 
